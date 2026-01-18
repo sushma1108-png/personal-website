@@ -725,6 +725,14 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+.about .profile-img {
+  width: 300px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  margin: 0 auto 20px auto;
+  display: block;
+}
+
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
